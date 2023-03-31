@@ -1,6 +1,14 @@
 ### Hello! I'm Rafael! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelsantose-dev/)
+
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafaelse6&show_icons=true&theme=tokyonight)
+
+<div>
+  <a href="https://github.com/Rafaelse6">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rafaelse6&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelse6&layout=compact&langs_count=7&theme=default"/>
+</div>
   
 ### Technologies I use
 <div style="display: inline_block">
