@@ -4,12 +4,7 @@ I started developing in 2021 while I was still in college and I decided to be a 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelsantose-dev/)
 
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafaelse6&show_icons=true&theme=tokyonight)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Rafaelse6&theme=tokyonight)](https://git.io/streak-stats)
-
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelse6&layout=compact&langs_count=6&theme=tokyonight" alt="rafael's most languages"/>
-</p>
   
 ### Technologies I use
 <div style="display: inline_block">
