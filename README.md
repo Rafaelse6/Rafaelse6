@@ -3,8 +3,6 @@
 I started developing in 2021 while I was still in college and I decided to be a developer with focus on backend at that time, but I want to become a fullstack developer in a near future.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelsantose-dev/)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Rafaelse6&theme=tokyonight)](https://git.io/streak-stats)
   
 ### Technologies I use
 <div style="display: inline_block">
