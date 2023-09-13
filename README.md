@@ -3,6 +3,7 @@
 I started developing in 2021 while I was still in college and I decided to be a developer with focus on backend at that time, but I want to become a fullstack developer in a near future.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelsantose-dev/)
+<a href = "mailto:rafa.05125@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafaelse6&show_icons=true&theme=tokyonight)
 
@@ -35,11 +36,11 @@ I started developing in 2021 while I was still in college and I decided to be a 
 * **Name**: Rafael Santos
 * **Age**: 21
 * **Living in**: Brasília - DF, Brazil
-* **University**: Degree in Software Analysis and Development
+* **Academic Degree**: Degree in Software Analysis and Development
 
 ## Curiosities about me
 
-* I do like learning new stuff, specially languages and musical instruments
+* I do like learning new stuff, specially languages and musical instruments.
 * I speak Portuguese and English. I'm also currently studying Japanese. 🇧🇷 | 🇺🇸 | 🇯🇵
 * I started learning English and guitar when I was 12 years old. 🎸
 * Besides Software Analysis and Development, I also studied Chemistry at college. ⚗️
