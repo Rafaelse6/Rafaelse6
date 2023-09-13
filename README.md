@@ -36,7 +36,7 @@ I started developing in 2021 while I was still in college and I decided to be a 
 * **Name**: Rafael Santos
 * **Age**: 21
 * **Living in**: Brasília - DF, Brazil
-* **Academic Degree**: Degree in Software Analysis and Development
+* **Academic Degree**: Software Analysis and Development
 
 ## Curiosities about me
 
