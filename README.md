@@ -35,14 +35,14 @@ I started developing in 2021 while I was still in college and I decided to be a 
 ## Detailed information
 
 * **Name**: Rafael Santos
-* **Age**: 21
+* **Age**: 22
 * **Living in**: Brasília - DF, Brazil
 * **Academic Degree**: Software Analysis and Development
 
 ## Curiosities about me
 
 * I do like learning new stuff, specially languages and musical instruments.
-* I speak Portuguese and English. I'm also currently studying Japanese. 🇧🇷 | 🇺🇸 | 🇯🇵
+* I speak Portuguese and English. I'm also currently studying Japanese and Italian. 🇧🇷 | 🇺🇸 | 🇯🇵 | 🇮🇹
 * I started learning English and guitar when I was 12 years old. 🎸
 * Besides Software Analysis and Development, I also studied Chemistry at college. ⚗️
 
