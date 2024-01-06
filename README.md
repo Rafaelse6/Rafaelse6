@@ -42,8 +42,8 @@ I started developing in 2021 while I was still in college and I decided to be a 
 ## Curiosities about me
 
 * I do like learning new stuff, specially languages and musical instruments.
-* I speak Portuguese and English. I'm also currently studying Japanese, Italian and Russian . 🇧🇷 | 🇺🇸 | 🇯🇵 | 🇮🇹
-* I started learning English and guitar when I was 12 years old. 🎸
+* I speak Portuguese and English. I'm also currently studying Japanese, Italian and Russian . 🇧🇷 | 🇺🇸 | 🇯🇵 | 🇮🇹 | RU
+* I started learning English and the guitar when I was 12 years old. 🎸
 * Besides Software Analysis and Development, I also studied Chemistry at college. ⚗️
 
 
