@@ -11,7 +11,6 @@ I started developing in 2021 while I was still in college and I decided to be a 
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" /></code>
   <img height="25" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" /></code>
   <img height="25" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" title="TypeScript" alt="TypeScript" /></code>
-  <img height="25" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" title="Golang" alt="Golang" /></code>
   <img height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" title="Docker" alt="Docker" />
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal">
   <img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
