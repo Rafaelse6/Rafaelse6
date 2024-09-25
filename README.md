@@ -1,6 +1,6 @@
 ### Hello! I'm Rafael! 👋
 
-I started developing in 2021 while I was still in college and I decided to be a developer with focus on backend at that time, but I want to become a fullstack developer in a near future.
+I started developing in 2021 while I was still in college and I wanted to be a back-end developer at that time, but I decided to study front-end some years later and became a fullstack developer.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelsantose-dev/)
 <a href = "mailto:rafa.05125@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -10,6 +10,7 @@ I started developing in 2021 while I was still in college and I decided to be a 
   <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" /></code>
   <img height="25" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" /></code>
+  <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" />
   <img height="25" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" title="TypeScript" alt="TypeScript" /></code>
   <img height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" title="Docker" alt="Docker" />
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal">
@@ -23,8 +24,10 @@ I started developing in 2021 while I was still in college and I decided to be a 
   <img width="25" height="25" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger - Open API" alt="Swagger - Open API" /></code>
   <img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL"/></code>
   <img width="25" height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="Postgres SQL" alt="Postgres SQL"/></code>
+  <img width="22" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/microsoft-sql-server.png" title="SQL Server" alt="SQL Server"/></code>
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">
   <img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/amazon_aws-icon.png" title="Amazon AWS" alt="Amazon AWS" /></code>
+  <img width="25" height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/main/svg_logos/react-original-wordmark.svg" title="React JS" alt="React JS" />
 </div></br>
 
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafaelse6&show_icons=true&theme=tokyonight)
