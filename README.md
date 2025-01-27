@@ -8,11 +8,13 @@ I started developing in 2021 while I was still in college and I wanted to be a b
 ### Languages and tools
 <div style="display: inline_block">
   <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
+  <img height="25" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" title="Go" alt="Golang" /></code>
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" /></code>
   <img height="25" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" /></code>
   <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" />
   <img height="25" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" title="TypeScript" alt="TypeScript" /></code>
   <img height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" title="Docker" alt="Docker" />
+  <img height="25" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" title="Kubernetes" alt="Kubernetes" />
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal">
   <img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
   <img width="25" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" title="Quarkus" alt="Quarkus"/>
@@ -38,7 +40,7 @@ I started developing in 2021 while I was still in college and I wanted to be a b
 ## Detailed information
 
 * **Name**: Rafael Santos
-* **Age**: 22
+* **Age**: 23
 * **Living in**: Brasília - DF, Brazil
 * **Academic Degree**: Software Analysis and Development
 
