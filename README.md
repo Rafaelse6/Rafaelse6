@@ -1,6 +1,6 @@
 ### Hello! I'm Rafael! 👋
 
-I started developing in 2021 while I was still in college and I wanted to be a back-end developer at that time, but I decided to study front-end some years later and became a fullstack developer.
+I started developing in 2021 while I was still in college, initially focusing on back-end development. Over time, I expanded my skills to front-end technologies and became a fullstack developer. In addition to software development, I have experience in data analysis and data science, leveraging Python, SQL, and tools like Excel and Alteryx to extract insights and optimize decision-making.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelsantose-dev/)
 <a href = "mailto:rafa.05125@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
