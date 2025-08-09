@@ -23,8 +23,6 @@ I started developing in 2021 while I was still in college, initially focusing on
   <img width="25" height="25" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" title="Hibernate" alt="Hibernate" /></code>
   <img width="25" height="25" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg" title="Apache Maven" alt="Apache Maven" /></code>
   <img width="25" height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" /></code>
-  <img width="25" height="25" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger - Open API" alt="Swagger - Open API" /></code>
-  <img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL"/></code>
   <img width="25" height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="Postgres SQL" alt="Postgres SQL"/></code>
   <img width="22" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/microsoft-sql-server.png" title="SQL Server" alt="SQL Server"/></code>
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">
