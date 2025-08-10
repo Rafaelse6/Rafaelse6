@@ -41,12 +41,3 @@ I started developing in 2021 while I was still in college, initially focusing on
 * **Age**: 23
 * **Living in**: Brasília - DF, Brazil
 * **Academic Degree**: Software Analysis and Development
-
-## Curiosities about me
-
-* I do like learning new stuff, specially languages and musical instruments.
-* I speak Portuguese and English. I'm currently studying Japanese, Italian and German . 🇧🇷 | 🇺🇸 | 🇯🇵 | 🇮🇹 
-* I started learning English and the guitar when I was 12 years old. 🎸
-* Besides Software Analysis and Development, I also studied Chemistry at college. ⚗️
-
-
