@@ -34,10 +34,3 @@ I started developing in 2021 while I was still in college, initially focusing on
 
 <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelse6&layout=compact&langs_count=6&theme=tokyonight" alt="rafael's most languages"/>
 </p>
-
-## Detailed information
-
-* **Name**: Rafael Santos
-* **Age**: 23
-* **Living in**: Brasília - DF, Brazil
-* **Academic Degree**: Software Analysis and Development
