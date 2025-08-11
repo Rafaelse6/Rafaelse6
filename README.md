@@ -30,7 +30,5 @@ I started developing in 2021 while I was still in college, initially focusing on
   <img width="25" height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/main/svg_logos/react-original-wordmark.svg" title="React JS" alt="React JS" />
 </div></br>
 
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafaelse6&show_icons=true&theme=tokyonight)
-
 <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelse6&layout=compact&langs_count=6&theme=tokyonight" alt="rafael's most languages"/>
 </p>
