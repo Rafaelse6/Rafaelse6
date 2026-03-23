@@ -8,7 +8,6 @@ I started developing in 2021 while I was still in college, initially focusing on
 ### Languages and tools
 <div style="display: inline_block">
   <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
-  <img height="25" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" title="Go" alt="Golang" /></code>
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" /></code>
   <img height="25" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" /></code>
   <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" />
